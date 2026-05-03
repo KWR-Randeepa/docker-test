@@ -26,5 +26,5 @@ jobs:
           context: ./
           push: true
           tags: |
-                noobgamer69/docker-automation:${{ env.SHORT_SHA }}
-                noobgamer69/docker-automation:latest
+                noobgamer69/dockertest:${{ env.SHORT_SHA }}
+                noobgamer69/dockertest:latest
