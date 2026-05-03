@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourusername/docker-demo:latest
+          tags: noobgamer69/docker-test:latest
